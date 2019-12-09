@@ -8,6 +8,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 | Mother Board | Asrock Z390 Phantom Gaming ITX/AC | |
 | BIOS Version | 4.0 | |
 | Memory | Kingston DDR4 3200 16GB Single | |
+| SSD | Intel 760P 512GB, M.2, NVMe 2280 | |
 | iGPU | iGPU Intel UHD 630 | |
 | Display Card | No | Only iGPU of CPU |
 | WiFi/Bluetooth Module | BCM94360CS2 | |
