@@ -108,13 +108,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					oAqTU1RBUwE=
-					</data>
+					<data>oAqTU1RBUwE=</data>
 					<key>Replace</key>
-					<data>
-					oAqRCv8L//8=
-					</data>
+					<data>oAqRCv8L//8=</data>
 				</dict>
 			</array>
 		</dict>
@@ -145,7 +141,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 slide=0 darkwake=0</string>
+		<string>dart=0 slide=0 darkwake=0 -cdfon</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>DefaultVolume</key>
@@ -182,9 +178,7 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>
-				b25ib2FyZC0xAA==
-				</data>
+				<data>b25ib2FyZC0xAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -194,9 +188,7 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>
-				b25ib2FyZC0xAA==
-				</data>
+				<data>b25ib2FyZC0xAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -206,9 +198,7 @@
 				<key>Key</key>
 				<string>layout-id</string>
 				<key>Value</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AwAAAA==</data>
 			</dict>
 			<dict>
 				<key>Device</key>
@@ -216,8 +206,7 @@
 				<key>Key</key>
 				<string>PinConfigurations</string>
 				<key>Value</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 		</array>
 		<key>Audio</key>
@@ -241,130 +230,74 @@
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,31,3</string>
 				<key>device-id</key>
-				<data>
-				cKEAAA==
-				</data>
+				<data>cKEAAA==</data>
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>
-				BwAAAA==
-				</data>
+				<data>BwAAAA==</data>
 				<key>model</key>
 				<string>Cannon Lake PCH cAVS</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				BwCbPg==
-				</data>
+				<data>BwCbPg==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
-				<data>
-				mz4AAA==
-				</data>
+				<data>mz4AAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>enable-hdmi20</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-busid</key>
-				<data>
-				BQAAAA==
-				</data>
+				<data>BQAAAA==</data>
 				<key>framebuffer-con0-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-flags</key>
-				<data>
-				xwMAAA==
-				</data>
+				<data>xwMAAA==</data>
 				<key>framebuffer-con0-index</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>
-				CQAAAA==
-				</data>
+				<data>CQAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>
-				AAQAAA==
-				</data>
+				<data>AAQAAA==</data>
 				<key>framebuffer-con1-busid</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-flags</key>
-				<data>
-				xwMAAA==
-				</data>
+				<data>xwMAAA==</data>
 				<key>framebuffer-con1-index</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>
-				CAAAAA==
-				</data>
+				<data>CAAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-busid</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>framebuffer-con2-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-flags</key>
-				<data>
-				xwMAAA==
-				</data>
+				<data>xwMAAA==</data>
 				<key>framebuffer-con2-index</key>
-				<data>
-				/////w==
-				</data>
+				<data>/////w==</data>
 				<key>framebuffer-con2-pipe</key>
-				<data>
-				CgAAAA==
-				</data>
+				<data>CgAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-cursormem</key>
-				<data>
-				AAAAAw==
-				</data>
+				<data>AAAAAw==</data>
 				<key>framebuffer-fbmem</key>
-				<data>
-				AAAAAw==
-				</data>
+				<data>AAAAAw==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-portcount</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAwA==
-				</data>
+				<data>AAAAwA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
@@ -479,15 +412,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRC
-				</data>
+				<data>igKEwHRC</data>
 				<key>MatchOS</key>
 				<string>10.14,10.14.1,10.14.2,10.14.3</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtC
-				</data>
+				<data>igKEwOtC</data>
 			</dict>
 		</array>
 		<key>KextsToPatch</key>
@@ -498,9 +427,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g/sPD4cLBAAA
-				</data>
+				<data>g/sPD4cLBAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -508,9 +435,7 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>
-				g/s/D4cLBAAA
-				</data>
+				<data>g/s/D4cLBAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -518,9 +443,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				QYP/Dw+DlAQAAA==
-				</data>
+				<data>QYP/Dw+DlAQAAA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -528,9 +451,7 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				QYP/Pw+DlAQAAA==
-				</data>
+				<data>QYP/Pw+DlAQAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -538,9 +459,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g+MP0+NBCd8=
-				</data>
+				<data>g+MP0+NBCd8=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -548,9 +467,7 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>
-				g+M/0+NBCd8=
-				</data>
+				<data>g+M/0+NBCd8=</data>
 			</dict>
 		</array>
 	</dict>
@@ -559,7 +476,7 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
-		<string>0x3E7</string>
+		<string>0x67</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
