@@ -1,6 +1,8 @@
 # EFI-ASRock-Z390-Phantom-Gaming-ITX
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
+It built by: ![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by 
+
 ## Hardware Specification
 | Item | Brand | Comment |
 | --- | --- | --- |
