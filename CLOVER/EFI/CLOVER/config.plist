@@ -151,6 +151,16 @@
 					<key>Replace</key>
 					<data>U0FUQQ==</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>PEGP to EGP0</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>UEVHUA==</data>
+					<key>Replace</key>
+					<data>RUdQMA==</data>
+				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
@@ -235,7 +245,7 @@
 		<key>#XMPDetection</key>
 		<string>-1</string>
 		<key>Arguments</key>
-		<string>slide=0 darkwake=0 dart=0 -cdfon</string>
+		<string>slide=0 darkwake=0 dart=0 -cdfon agdpmod=pikera</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -855,71 +865,6 @@
 				<key>PciAddr</key>
 				<string>00:1f.6</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Samsung Mass Storage Controller - NVMe PCIe</string>
-				<key>CustomProperties</key>
-				<array>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>model</string>
-						<key>Value</key>
-						<string>Samsung NVMe Series M.2</string>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>name</string>
-						<key>Value</key>
-						<string>970 Evo Plus 500GB SSD</string>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>device_type</string>
-						<key>Value</key>
-						<string>Mass Storage Controller</string>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>AAPL,slot-name</string>
-						<key>Value</key>
-						<string>Internal</string>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>compatible</string>
-						<key>Value</key>
-						<string>pci15b7,5002</string>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>device-id</string>
-						<key>Value</key>
-						<data>AlAAAA==</data>
-					</dict>
-					<dict>
-						<key>Disabled</key>
-						<false/>
-						<key>Key</key>
-						<string>vendor-id</string>
-						<key>Value</key>
-						<data>txUAAA==</data>
-					</dict>
-				</array>
-				<key>PciAddr</key>
-				<string>4:00.00</string>
-			</dict>
 		</array>
 		<key>Audio</key>
 		<dict>
@@ -1162,14 +1107,8 @@
 			<key>Intel</key>
 			<true/>
 		</dict>
-		<key>NVCAP</key>
-		<string>04000000000003000c0000000000000700000000</string>
 		<key>VideoPorts</key>
 		<integer>0</integer>
-		<key>display-cfg</key>
-		<string>03010300ffff0001</string>
-		<key>ig-platform-id</key>
-		<string>0x3E9B0007</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -1361,20 +1300,6 @@
 				<key>Replace</key>
 				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>External icons patch</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>RXh0ZXJuYWw=</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>AppleAHCIPort</string>
-				<key>Replace</key>
-				<data>SW50ZXJuYWw=</data>
-			</dict>
 		</array>
 		<key>PanicNoKextDump</key>
 		<false/>
@@ -1384,7 +1309,7 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
-		<string>0x3E7</string>
+		<string>0x67</string>
 		<key>MLB</key>
 		<string>C02032109R5DC771H</string>
 		<key>ROM</key>
@@ -1510,33 +1435,33 @@
 		<key>#Version</key>
 		<string>1.0</string>
 		<key>BiosReleaseDate</key>
-		<string>07/26/2019</string>
+		<string>02/17/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM81.88Z.F000.B00.1907261958</string>
+		<string>IM191.88Z.F000.B00.2002172336</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2DFE22DDD8C</string>
+		<string>Mac-AA95B1DDAB278B95</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C078091014NUE</string>
+		<string>C02934500CDLNV91F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Mini-Aluminum</string>
+		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>1037.0.39.151.1</string>
+		<string>1037.100.345.0.0</string>
 		<key>Family</key>
-		<string>Mac mini</string>
+		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF466</string>
+		<string>0xFD8FF576</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFFDFFF7F</string>
 		<key>LocationInChassis</key>
@@ -1546,13 +1471,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x20</string>
+		<string>0x22</string>
 		<key>ProductName</key>
-		<string>Macmini8,1</string>
+		<string>iMac19,1</string>
 		<key>SerialNumber</key>
-		<string>C07WC0S8JYVX</string>
+		<string>C02Z8099JV3Q</string>
 		<key>SmUUID</key>
-		<string>06B80570-21C1-4E86-A16D-08D6D6FC13D4</string>
+		<string>28488D4E-9B29-466E-9109-CCA9251118FF</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -1571,6 +1496,8 @@
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
+		<true/>
+		<key>NoCaches</key>
 		<true/>
 	</dict>
 </dict>
