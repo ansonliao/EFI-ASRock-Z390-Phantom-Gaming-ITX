@@ -10,7 +10,7 @@ It built by: ![t_logo](https://user-images.githubusercontent.com/6239630/7344254
 | Mother Board | [Asrock Z390 Phantom Gaming ITX/AC](https://www.asrock.com/MB/Intel/Z390%20Phantom%20Gaming-ITXac/index.asp) | |
 | BIOS Version | 4.0 | |
 | Memory | Kingston DDR4 3200 16GB Single | |
-| SSD | - [WD Black SN750 NVMe SSD, 1TB](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd), - [Intel SSD 760p NVMe, 512GB](https://ark.intel.com/content/www/us/en/ark/products/134582/intel-ssd-760p-series-512gb-m-2-80mm-pcie-3-1-x4-3d2-tlc.html)| |
+| SSD | * [WD Black SN750 NVMe SSD, 1TB](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd), * [Intel SSD 760p NVMe, 512GB](https://ark.intel.com/content/www/us/en/ark/products/134582/intel-ssd-760p-series-512gb-m-2-80mm-pcie-3-1-x4-3d2-tlc.html)| |
 | iGPU | iGPU Intel UHD 630 | |
 | Display Card | [Sapphire PULSE RX 5500 XT 8G GDDR6](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-5500-xt-8g-gddr6) | |
 | WiFi/Bluetooth Module | BCM94360CS2 | |
