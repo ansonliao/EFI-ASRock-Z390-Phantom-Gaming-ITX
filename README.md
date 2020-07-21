@@ -21,6 +21,12 @@ It built by: ![t_logo](https://user-images.githubusercontent.com/6239630/7344254
 
 ## Updates:
 
+### 21-Jul-2020
+- Upgraded macOS to 10.15.6
+- Clover bootloader version: v5.0 r5114
+- Updated `AirportBrcmFixup.kext` to the latest version `2.0.7`
+- Added bluetooth patches for WiFi/Bluetooth card `BCM94360CS2`, if your bluetooth is works fine, maybe you need to remove these 3 patches `BrcmBluetoothInjector.kext`, `BrcmFirmwareData.kext`, `BrcmPatchRAM3.kext` from `EFI->CLOVER->kext-Other`, please refer to: https://github.com/acidanthera/BrcmPatchRAM
+
 ### 27-Apr-2020
 - Works with Clover bootloader version: v5.0 r5114
 - Updated to support Catalina 10.15.4
