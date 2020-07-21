@@ -6,17 +6,17 @@ It built by: ![t_logo](https://user-images.githubusercontent.com/6239630/7344254
 ## Hardware Specification
 | Item | Brand | Comment |
 | --- | --- | --- |
-| CPU | Intel I5 9600K | |
-| Mother Board | Asrock Z390 Phantom Gaming ITX/AC | |
+| CPU | [Intel I5 9600K](https://ark.intel.com/content/www/us/en/ark/products/134896/intel-core-i5-9600k-processor-9m-cache-up-to-4-60-ghz.html) | |
+| Mother Board | [Asrock Z390 Phantom Gaming ITX/AC](https://www.asrock.com/MB/Intel/Z390%20Phantom%20Gaming-ITXac/index.asp) | |
 | BIOS Version | 4.0 | |
 | Memory | Kingston DDR4 3200 16GB Single | |
-| SSD | Intel 760P 512GB, M.2, NVMe 2280 | |
+| SSD | [WD Black SN750 NVMe SSD, 1TB](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd),  [Intel SSD 760p NVMe, 512GB](https://ark.intel.com/content/www/us/en/ark/products/134582/intel-ssd-760p-series-512gb-m-2-80mm-pcie-3-1-x4-3d2-tlc.html)| |
 | iGPU | iGPU Intel UHD 630 | |
-| Display Card | No | Only iGPU of CPU |
+| Display Card | [Sapphire PULSE RX 5500 XT 8G GDDR6](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-5500-xt-8g-gddr6) | |
 | WiFi/Bluetooth Module | BCM94360CS2 | |
-| PSU | CORSAIR SF450 SFX | No display card, no need more powerful PSU to support |
-| Case | [ Smallest One Mini ITX](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.3c192e8dGWPwJN&id=558710712904&_u=gb7ctd3e108) | |
-| Monitor | LG 27UL600 4K HDR400 IPS | DisplayPort Connect |
+| PSU | [CORSAIR SF450 SFX](https://www.corsair.com/ww/en/Categories/Products/Power-Supply-Units/SF-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020104-NA) | |
+| Case | [Smallest One Mini ITX](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.3c192e8dGWPwJN&id=558710712904&_u=gb7ctd3e108) | |
+| Monitor | [LG 27UL600 4K HDR400 IPS](https://www.lg.com/hk_en/monitor/lg-27UL600) | DisplayPort Connect |
 
 
 ## Updates:
