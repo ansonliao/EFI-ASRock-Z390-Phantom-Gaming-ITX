@@ -9,7 +9,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 # OpenCore Version
 - 0.6.0
 
-![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/migrate_to_oc/images/oc_catalina_10.15.6.jpg?raw=true)
+![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/oc_catalina_10.15.6.jpg?raw=true)
 
 ## Hardware Specification
 | Item | Brand | Comment |
