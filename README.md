@@ -27,8 +27,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 | Monitor | [LG 27UL600 4K HDR400 IPS](https://www.lg.com/hk_en/monitor/lg-27UL600) | DisplayPort Connect |
 
 
-## Changelog:
-
+## Changelog
 _21-Sep-2020_
 - Migrated to OpenCore 0.6.0
 - Clover version will be dropped
