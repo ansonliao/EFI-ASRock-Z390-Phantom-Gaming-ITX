@@ -7,7 +7,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 - Catalina 10.15.6
 
 # OpenCore Version
-- 0.6.0
+- 0.6.1
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/oc_catalina_10.15.6.jpg?raw=true)
 
