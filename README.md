@@ -28,7 +28,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
-_21-Sep-2020_
+_11-Sep-2020_
 - Migrated to OpenCore 0.6.0
 - Clover version will be dropped
 - Removed `AirportBrcmFixup.kext` as `BCM943602CD` no need any patch (`BCM94360CS2` also don't need any bluetooth KEXT patch)
