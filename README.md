@@ -4,10 +4,10 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by 
 
 # OS Version
-- Catalina 10.15.6
+- Catalina 10.15.7
 
 # OpenCore Version
-- 0.6.1
+- 0.6.2
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/oc_catalina_10.15.6.jpg?raw=true)
 
@@ -28,6 +28,10 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
+_09-Oct-2020_
+- Upgraded OpenCore to version `0.6.2`
+- Upgraded KEXTs
+
 _15-Sep-2020_
 - Upgraded OpenCore to version `0.6.1`
 - Upgraded KEXTs
