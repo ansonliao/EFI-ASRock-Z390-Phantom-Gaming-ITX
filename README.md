@@ -28,6 +28,11 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
+_03-Dec-2020_
+- Upgraded OpenCore to version `0.6.3`
+- Upgraded KEXTs
+- Support macOS version: 10.15.7
+
 _09-Oct-2020_
 - Upgraded OpenCore to version `0.6.2`
 - Upgraded KEXTs
