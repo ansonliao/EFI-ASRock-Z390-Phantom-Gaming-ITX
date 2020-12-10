@@ -28,7 +28,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
-_10_Dec-2020_
+_10-Dec-2020_
 - Upgraded OpenCore to version `0.6.4`
 - Upgraded KEXTs
 
