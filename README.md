@@ -7,7 +7,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 - Big Sur 11.0.1
 
 # OpenCore Version
-- 0.6.3
+- 0.6.4
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/macOS_big_sur_11.0.1.jpg?raw=true)
 
@@ -28,6 +28,10 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
+_10_Dec-2020_
+- Upgraded OpenCore to version `0.6.4`
+- Upgraded KEXTs
+
 _05-Dec-2020_
 - Support macOS version: 11.0.1
 
