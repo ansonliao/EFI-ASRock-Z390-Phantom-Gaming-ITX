@@ -53,7 +53,7 @@ Restart machine and boot to Hackintosh. Put [SSDT-DTPG.aml](https://github.com/a
 
 #### ACPI section
 
-Configure `config.plist` and add `SSDT-DTPG.aml` and `SSDT-TbtOnPch_PINI.aml`/ or `SSDT-TbtOnPch_PINI_D8.aml` to the `ACPI` section and enable them.
+Configure `config.plist` and add `SSDT-DTPG.aml` and `SSDT-TbtOnPch_PINI.aml` or `SSDT-TbtOnPch_PINI_D8.aml` to the `ACPI` section and enable them.
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/ssdt_setting.jpg?raw=true)
 
