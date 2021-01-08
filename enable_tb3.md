@@ -46,7 +46,7 @@ Restart machine and boot to Hackintosh. Put [SSDT-DTPG.aml](https://github.com/a
 
    1. If `dc` got, please put [SSDT-TbtOnPch_PINI.aml](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/tools/SSDT-TbtOnPch_PINI.aml) to the folder `EFI -> OC -> ACPI`
 
-   2. If `D8` got, please put [SSDT-TbtOnPch_PINI_D8.aml](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/tools/SSDT-TbtOnPch_PINI_D8.aml) to the folder ``EFI -> OC -> ACPI`
+   2. If `D8` got, please put [SSDT-TbtOnPch_PINI_D8.aml](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/tools/SSDT-TbtOnPch_PINI_D8.aml) to the folder `EFI -> OC -> ACPI`
       ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/ioregistry_search.jpg?raw=true)
 
 ### Configure `config.plist`
