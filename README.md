@@ -7,7 +7,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 - Big Sur 11.1
 
 # OpenCore Version
-- 0.6.4
+- 0.6.5
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/macOS_big_sur_11.0.1.jpg?raw=true)
 
@@ -28,6 +28,11 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 
 
 ## Changelog
+_08-Jan-2021_
+- Upgraded OpenCore to version `0.6.5`
+- Upgraded KEXTs
+- Enabled Thunderbolt 3 and support hot plug, check tutorial [here](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/enable_tb3.md)
+
 _16-Dec-2020_
 - Supported macOS version: `11.1`
 
@@ -78,6 +83,3 @@ _27-Apr-2020_
 - Audio card
 - Sleep, wake up
 - Onboard DP port, HDMI port
-
-# What Broken:
-- Thunderbolt 3 maybe out of work, I didn't pay much time on this
