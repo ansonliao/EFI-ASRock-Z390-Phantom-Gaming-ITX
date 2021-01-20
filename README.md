@@ -83,3 +83,4 @@ _27-Apr-2020_
 - Audio card
 - Sleep, wake up
 - Onboard DP port, HDMI port
+- Thunderbolt 3: display, charging, data transfer, no devices to verify the Daisy chaining
