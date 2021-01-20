@@ -85,5 +85,5 @@ _27-Apr-2020_
 - Onboard DP port, HDMI port
 - Thunderbolt 3: display, charging, data transfer, no devices to verify the Daisy chaining
 
-# Donate me for a coffee 
+# Donate a coffee 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/donation.png?raw=true)
