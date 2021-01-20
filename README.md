@@ -1,8 +1,6 @@
 # EFI-ASRock-Z390-Phantom-Gaming-ITX
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
-Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by 
-
 # OS Version
 - Big Sur 11.1
 
@@ -18,7 +16,7 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 | --- | --- | --- |
 | CPU | [Intel I5 9600K](https://ark.intel.com/content/www/us/en/ark/products/134896/intel-core-i5-9600k-processor-9m-cache-up-to-4-60-ghz.html) | |
 | Mother Board | [Asrock Z390 Phantom Gaming ITX/AC](https://www.asrock.com/MB/Intel/Z390%20Phantom%20Gaming-ITXac/index.asp) | |
-| BIOS Version | 4.0 | |
+| BIOS Version | 4.40C | |
 | Memory | Kingston DDR4 3200 16GB Single | |
 | SSD | [WD Black SN750 NVMe SSD 1TB](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd) | |
 | iGPU | iGPU Intel UHD 630 | |
