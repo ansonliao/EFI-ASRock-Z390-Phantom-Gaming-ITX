@@ -86,10 +86,4 @@ _27-Apr-2020_
 - Thunderbolt 3: display, charging, data transfer, no devices to verify the Daisy chaining
 
 # Donate me for a coffee 
-WeChat donation
-![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/wechat_donation_code.jpg?raw=true)
-Alipay Hong Kong donation
-![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/alipay_donation_code.jpg?raw=true)
-Paypal donation
-![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/paypal_donation_code.jpg?raw=true)
-
+![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/donation.png?raw=true)
