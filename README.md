@@ -9,7 +9,9 @@ Clover built by: ![t_logo](https://user-images.githubusercontent.com/6239630/734
 # OpenCore Version
 - 0.6.5
 
-![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/macOS_big_sur_11.0.1.jpg?raw=true)
+![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/big_sur_11_1.jpg?raw=true)
+![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/tb3_info.jpg?raw=true)
+![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/tb3_network.jpg?raw=true)
 
 ## Hardware Specification
 | Item | Brand | Comment |
