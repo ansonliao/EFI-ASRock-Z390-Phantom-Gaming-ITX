@@ -28,7 +28,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
-_05-Feb-2021
+_05-Feb-2021_
 - Upgraded OpenCore to version `0.6.6`
 - Upgraded KEXTs
 
