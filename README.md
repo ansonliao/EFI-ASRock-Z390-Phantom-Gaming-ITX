@@ -2,7 +2,7 @@
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 # OS Version
-- Big Sur 11.1
+- Big Sur 11.2.1
 
 # OpenCore Version
 - 0.6.6
