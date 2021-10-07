@@ -5,7 +5,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 - Big Sur 11.6
 
 # OpenCore Version
-- 0.7.3
+- 0.7.4
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/big_sur_11_6.jpg?raw=true)
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/tb3_info.jpg?raw=true)
@@ -28,7 +28,11 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
-_05-Feb-2021_
+_07-Oct-2021_
+- Upgraded OpenCore to version `0.7.4`
+- Upgraded KEXTs
+
+_05-Sep-2021_
 - Upgraded OpenCore to version `0.7.3`
 - Upgraded KEXTs
 - Supported macOS 11.6
