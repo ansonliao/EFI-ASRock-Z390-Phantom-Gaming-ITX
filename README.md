@@ -5,7 +5,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 - Montery 12.2
 
 # OpenCore Version
-- 0.7.7
+- 0.7.8
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/monterey_12_2.jpg?raw=true)
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/tb3_info.jpg?raw=true)
@@ -28,6 +28,15 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
+_26-Feb-2022_
+- Upgraded OpenCore to version `0.7.8`
+- Upgraded KEXTs
+- Supported Monterey 12.2.1
+
+_09-Feb-2022_
+- Upgraded OpenCore to version `0.7.8`
+- Upgraded KEXTs
+
 _31-Jan-2022_
 - Upgraded OpenCore to version `0.7.7`
 - Upgraded KEXTs
