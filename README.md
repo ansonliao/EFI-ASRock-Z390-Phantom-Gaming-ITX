@@ -28,6 +28,9 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
+_12-May-2022_
+- Fixed error message when BIOS booting phase
+
 _21-Apr-2022_
 - Upgraded OpenCore to version `0.8.0`
 - Upgraded KEXTs
