@@ -2,7 +2,7 @@
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 # OS Version
-- Montery 12.4a
+- Montery 12.4
 
 # OpenCore Version
 - 0.8.2
