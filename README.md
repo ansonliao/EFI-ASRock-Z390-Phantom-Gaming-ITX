@@ -2,10 +2,10 @@
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 # OS Version
-- Montery 12.4
+- Montery 12.5
 
 # OpenCore Version
-- 0.8.2
+- 0.8.3
 
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/monterey_12_2.jpg?raw=true)
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/tb3_info.jpg?raw=true)
@@ -17,7 +17,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 | CPU | [Intel I5 9600K](https://ark.intel.com/content/www/us/en/ark/products/134896/intel-core-i5-9600k-processor-9m-cache-up-to-4-60-ghz.html) | |
 | Mother Board | [Asrock Z390 Phantom Gaming ITX/AC](https://www.asrock.com/MB/Intel/Z390%20Phantom%20Gaming-ITXac/index.asp) | |
 | BIOS Version | 4.40C | |
-| Memory | Kingston DDR4 3200 16GB Single | |
+| Memory | 32GB | Kingston DDR4 3200 16GB Single * 2 |
 | SSD | [WD Black SN750 NVMe SSD 1TB](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd) | |
 | iGPU | iGPU Intel UHD 630 | |
 | Display Card | [Sapphire PULSE RX 5500 XT 8G GDDR6](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-5500-xt-8g-gddr6) | |
@@ -28,6 +28,11 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
+_05-Aug-2022_
+- Upgraded OC version to 0.8.3
+- Upgraedd KEXTs to the latest version
+- Supported macOS Monterey 12.5
+
 _09-Jul-2022_
 - Upgraded OC version to 0.8.2
 - Upgraedd KEXTs to the latest version
