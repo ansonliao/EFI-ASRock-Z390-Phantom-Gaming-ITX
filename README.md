@@ -28,7 +28,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 
 ## Changelog
-_29-oct-2022_
+_29-Oct-2022_
 - Upgraded OC version to `0.8.5`
 - Upgraedd KEXTs to the latest version
 - Supported macOS Monterey `12.6.1`
