@@ -2,7 +2,7 @@
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
 # OS Version
-- Montery 12.6.1
+- Ventura 13.0.1
 
 # OpenCore Version
 - 0.8.6
@@ -31,6 +31,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 _21-Nov-2022_
 - Upgraded OC version to `0.8.6`
 - Upgraedd KEXTs to the latest version
+- Supported macOS Ventura 13.0.1
 
 _29-Oct-2022_
 - Upgraded OC version to `0.8.5`
