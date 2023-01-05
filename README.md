@@ -31,7 +31,7 @@ The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 ## Changelog
 _05-Jan-2023_
 - Upgraded OC version to `0.8.8`
-- Upgraedd KEXTs to the latest version
+- Upgraded KEXTs to the latest version
 
 _22-Dec-2022_
 - Upgraded OC version to `0.8.7`
