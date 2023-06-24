@@ -802,7 +802,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v darkwake=0 slide=1 agdpmod=pikera igfxfw=2 vsmcgen=1</string>
+				<string>darkwake=0 slide=1 agdpmod=pikera igfxfw=2 vsmcgen=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -999,6 +999,18 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
+				<string>ResetNvramEntry.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>LoadEarly</key>
+				<false/>
+				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
 			<dict>
@@ -1049,6 +1061,8 @@
 		<dict>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
+			<key>ConsoleFont</key>
+			<string></string>
 			<key>ConsoleMode</key>
 			<string>Max</string>
 			<key>DirectGopRendering</key>
@@ -1117,6 +1131,8 @@
 			<key>HashServices</key>
 			<false/>
 			<key>OSInfo</key>
+			<false/>
+			<key>PciIo</key>
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
