@@ -1,7 +1,15 @@
 # EFI-ASRock-Z390-Phantom-Gaming-ITX
 The EFI of Asrock Z390 Phantom Gamming ITX for Hackintosh
 
-# OS Version
+- [macOS Version](#macOS-Version)
+- [opencore-version](#OpenCore-Version)
+- [Hardware Specification](#Hardware-Specification)
+- [Changelog](#Changelog)
+- [BIOS Configurations](#BIOS-Configurations)
+- [What Works](#What-Works)
+- [Donation](#Donate-a-coffee)
+
+# macOS Version
 - Ventura 13.4.1
 
 # OpenCore Version
@@ -187,6 +195,31 @@ _27-Apr-2020_
 - Updated some KEXTs, WhateverGreen, Lilu
 - Didn't updated AppleALC.kext to version `1.4.8`, as my case is after upgrade AppleALC to version `1.4.8`, audio layout ID `11` out of work to drive built-in audio devices of MB, tries others some layout IDs of ALC1220, but failed, if anyone have solution, please create issue let me known, thanks.
 
+# BIOS Configurations
+
+## CPU Configurations
+- Advanced -> CPU Configuration -> CFG Lock -> Disabled
+
+## Chipset Settings
+- Advanced -> Chipset Configuration -> Primary Graphics Adapter -> PCI Express
+- Advanced -> Chipset Configuration -> Above 4G Decoding -> Enabled
+- Advanced -> Chipset Configuration -> VT-d -> Disabled
+- Advanced -> Chipset Configuration -> Shared Memory -> 128M
+- Advanced -> Chipset Configuration -> IGPU Multi-Monitor -> Enabled
+
+## Thunderbolt Configurations
+- Advanced -> Intel(R) Thunderbolt -> Thunderbolt (TM) Support -> Enabled
+- Advanced -> Intel(R) Thunderbolt -> Thunderbolt Boot Support -> Disabled
+- Advanced -> Intel(R) Thunderbolt -> Thunderbolt USB Support -> Enabled
+- Advanced -> Intel(R) Thunderbolt -> Titan Ridge Workaround for OSUP -> Disabled
+- Advanced -> Intel(R) Thunderbolt -> Security Level -> No Security
+- Advanced -> Intel(R) Thunderbolt ->  Security Level -> SW SMI on TBT hot-plug -> Enabled
+- Advanced -> Intel(R) Thunderbolt ->  Security Level -> ACPI Notify on TBT Hot-plug -> Enabled
+- Advanced -> Intel(R) Thunderbolt ->  GPI03 Force Pwr -> Enabled
+
+## USB Configurations
+- XHCI Hand-off -> Enabled
+
 # What Works
 - WiFi, Bluetooth
 - iServices: Airdrop, iMessage, App Store, Handoff, etc.
@@ -197,5 +230,5 @@ _27-Apr-2020_
 - Onboard DP port, HDMI port
 - Thunderbolt 3: display, charging, data transfer, no devices to verify the Daisy chaining
 
-# Donate a coffee 
+# Donate a coffee
 ![](https://github.com/ansonliao/EFI-ASRock-Z390-Phantom-Gaming-ITX/blob/master/images/donation.png?raw=true)
